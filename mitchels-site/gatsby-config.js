@@ -21,5 +21,6 @@ module.exports = {
     title: "Mitchel Sarauer's Personal Site",
     description: "web dev portfolio",
     copyright: "This website is copyright 2021 Mitchel Sarauer",
+    contact: "mitchelsarauer@hotmail.com",
   },
 }
